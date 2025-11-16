@@ -36,6 +36,7 @@ void display()
 
 
 Output:
+
 <img width="259" height="331" alt="493159999-d367857b-0063-4cca-bf2d-34fe941efbc4" src="https://github.com/user-attachments/assets/e009d591-bac5-46ab-ae0e-19b813450f26" />
 
 
@@ -132,6 +133,7 @@ void display()
 
 
 Output:
+
 <img width="498" height="529" alt="493160644-917c01fa-264f-4d82-a7f6-af5408f5d01f" src="https://github.com/user-attachments/assets/4184fb1d-3c76-42d7-af91-827d3c15b98e" />
 
 
